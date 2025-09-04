@@ -40,7 +40,7 @@
           {
             "group": "Flight Grid",
             "pages": [
-              "Flight-Grid/NavigatingFlightGrid",
+              "flightgrid/NavigatingFlightGrid",
               "ai-tools/claude-code",
               "ai-tools/windsurf"
             ]
