@@ -38,9 +38,9 @@
             ]
           },
           {
-            "group": "AI tools",
+            "group": "Flight Grid",
             "pages": [
-              "ai-tools/cursor",
+              "ai-tools/NavigatingFlightGrid",
               "ai-tools/claude-code",
               "ai-tools/windsurf"
             ]
