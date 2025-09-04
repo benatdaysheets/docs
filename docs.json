@@ -38,9 +38,9 @@
             ]
           },
           {
-            "group": "Flight Grid",
+            "group": "Mac Guides",
             "pages": [
-              "flightgrid/NavigatingFlightGrid",
+              "macguides/NavigatingFlightGrid",
               "ai-tools/claude-code",
               "ai-tools/windsurf"
             ]
