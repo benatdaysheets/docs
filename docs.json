@@ -16,8 +16,9 @@
           {
             "group": "Daysheets for Mac",
             "pages": [
-              "macguides/NavigatingFlightGrid",
               "index",
+              "macguides/NavigatingFlightGrid",
+            
               "quickstart",
               "development"
             ]
